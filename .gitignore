@@ -1,0 +1,9 @@
+*.pyc
+*~
+**/__pycache__/**
+*.log
+*.pot
+__pycache__
+venv/
+.DS_Store
+.idea/
